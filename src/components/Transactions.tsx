@@ -4,11 +4,9 @@ import {
   ArrowDownCircle, 
   Search, 
   Filter, 
-  ArrowUpDown, 
   Plus, 
   Edit2, 
   Trash2, 
-  MoreHorizontal,
   ChevronLeft,
   ChevronRight,
   Download

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Bell, UserCircle } from 'lucide-react';
+import { Bell, UserCircle } from 'lucide-react';
 import { useStore } from '../store/useStore';
 
 interface HeaderProps {

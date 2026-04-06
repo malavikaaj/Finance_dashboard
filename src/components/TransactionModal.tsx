@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { X } from 'lucide-react';
-import type { Transaction, TransactionType } from '../types';
+import type { Transaction } from '../types';
 
 interface TransactionModalProps {
   isOpen: boolean;

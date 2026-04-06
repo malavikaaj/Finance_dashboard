@@ -2,8 +2,6 @@ import React, { useMemo } from 'react';
 import { 
   Zap, 
   Target, 
-  ArrowUpRight, 
-  ArrowDownRight, 
   TrendingUp, 
   TrendingDown,
   Info,
@@ -18,8 +16,7 @@ import {
   YAxis, 
   CartesianGrid, 
   Tooltip, 
-  ResponsiveContainer,
-  Cell
+  ResponsiveContainer
 } from 'recharts';
 
 const Insights: React.FC = () => {
