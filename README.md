@@ -1,5 +1,7 @@
 # FinDash - Finance Dashboard UI
 
+**[Live Demo](https://malavikaaj.github.io/Finance_dashboard/)**
+
 A clean and interactive finance dashboard built with React, TypeScript, and Tailwind CSS. This project was developed as part of a Frontend Developer Intern assignment.
 
 ## 🚀 Features
